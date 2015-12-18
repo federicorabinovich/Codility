@@ -1,2 +1,2 @@
 # Codility
-Solutions to Codility tasks
+Solutions to Codility tasks under PHP
